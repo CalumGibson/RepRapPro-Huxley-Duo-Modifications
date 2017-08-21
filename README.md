@@ -1,2 +1,2 @@
 # RepRapPro-Huxley-Duo-Modifications
-The modifications to the standard RepRapPro components allow for broken versions of the original components to be more easily replaced in much less time
+The modifications to the standard RepRapPro components allow for broken versions of the original components to be more easily replaced in much less time.  Each clamp component is split into a corresponding male and female section which click together, locking in place.  The z-motor bracket is split into two sections so that if the component cracks in the clamping region, the end section can easily be replaced.
